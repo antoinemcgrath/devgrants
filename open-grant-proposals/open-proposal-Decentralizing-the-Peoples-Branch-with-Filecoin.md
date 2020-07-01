@@ -38,18 +38,18 @@ This project is independent, however it can also be seen as phase 2 of a larger 
 
 Expense estimate $30,000 USD
 
-OCR services
-H2O.ai license
-Cloud Provisioning
-Full Time engineer
-Supplemental Engineer
-Project Mgr Supplemental Expenses
-Crowdwork Budget (Mechanical Turk)
-International Federation of Library Associations and Institutions (IFLA) Membership
-Website
-ML Classifier based on 4 countries, 1 classifier set per country
-ML Libraries, training classifiers:
-Website build backed by database
+- OCR services
+- H2O.ai license
+- Cloud Provisioning
+- Full Time engineer
+- Supplemental Engineer
+- Project Mgr Supplemental Expenses
+- Crowdwork Budget (Mechanical Turk)
+- International Federation of Library Associations and Institutions (IFLA) Membership
+- Website
+- ML Classifier based on 4 countries, 1 classifier set per country
+- ML Libraries, training classifiers:
+- Website build & research database
 
 
 ## Maintenance and Upgrade Plans
@@ -80,8 +80,8 @@ Post Internet Archive Antoine designed a related workflow to Congress.ai for the
 
 ## Team code repositories
 
-https://crsreports.com/
-https://github.com/antoinemcgrath?tab=repositories
+- https://crsreports.com/
+- https://github.com/antoinemcgrath?tab=repositories
 
 # Additional Information
 
