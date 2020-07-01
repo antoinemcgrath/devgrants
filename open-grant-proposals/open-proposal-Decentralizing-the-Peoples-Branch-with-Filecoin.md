@@ -54,7 +54,7 @@ Expense estimate $30,000 USD
 
 ## Maintenance and Upgrade Plans
 
-Specify your team's long-term plans to maintain this software and upgrade it over time.
+This proposal is to collect and host the legislative reports from only 4 countries. Once completed we will accept funding from private practises that wish to be associated with the content and provide them with recognition, and consider partnerships with academic and archival institutions including archive.org and public.resource.org and the yet to be formed UN library lab.
 
 # Team
 
